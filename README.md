@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" width="100%"  alt="Starnoh254" /> </p>
+
 # 💫 About Me:
 I'm currently working on Linkarp project<br>I love computer Science 
 
